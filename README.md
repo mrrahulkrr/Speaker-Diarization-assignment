@@ -15,5 +15,5 @@ This repository contains implementations and evaluations of various speaker diar
 * Consider your specific requirements, dataset size, and available resources when choosing a solution.
 * Feel free to explore, experiment, and contribute to enhancing these speaker diarization solutions!
 
-* I have added ppt in this repo and i am also providing ppt link := 
+* As I have added ppt in this repository but i am also providing ppt link := 
 |--- Research Documentation Link = https://docs.google.com/presentation/d/1e3vdMGh0eys198wkvU9x6OQ8jX9SnQh9/edit?usp=drivesdk&ouid=103188346307294506464&rtpof=true&sd=true ---------|
